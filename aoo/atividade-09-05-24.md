@@ -16,7 +16,8 @@
 
 > Se houver alguém, por ventura, que não esteja conseguindo fazer na prática, crie um documento relatando o problema e descreva passo a passo o que deveria ser feito no código para a realização da inclusão do campo e-mail solicitado.
 
-![alt text](image.png)
+![image](https://github.com/PauloRobertoFilhoo/Uni9-CC/assets/119015635/d7a635dd-cbbe-4c99-bf48-7245b1abe148)
+
 
 <br>
 
@@ -198,31 +199,38 @@
 
 * Banco de dados
 
-  ![alt text](image-1.png)
+  ![image](https://github.com/PauloRobertoFilhoo/Uni9-CC/assets/119015635/6b73868a-e12f-46d4-854c-405587073b83)
+
 
 <br>
 <br>
 
 * Cadastro
 
-  ![alt text](image-4.png)
+  ![image](https://github.com/PauloRobertoFilhoo/Uni9-CC/assets/119015635/0042003c-b2a2-4a67-a6b0-335adfcbda02)
 
-  ![alt text](image-6.png)
+
+  ![image](https://github.com/PauloRobertoFilhoo/Uni9-CC/assets/119015635/ddc076c3-bfbf-4eba-8577-41142b59f156)
+
 
 <br>
 <br>
 
 * Listagem
 
-  ![alt text](image-9.png)
+  ![image](https://github.com/PauloRobertoFilhoo/Uni9-CC/assets/119015635/cec5ff9a-b143-48b4-9639-e28c7d0121db)
 
-  ![alt text](image-8.png)
+
+  ![image](https://github.com/PauloRobertoFilhoo/Uni9-CC/assets/119015635/e9cf94a2-4d60-48fe-be42-f1705a13e19f)
+
 
 <br>
 <br>
 
 * Editando 
 
-  ![alt text](image-5.png)
+  ![image](https://github.com/PauloRobertoFilhoo/Uni9-CC/assets/119015635/2ef6056d-47b0-4ed9-a4ed-c56699601c02)
 
-  ![alt text](image-10.png)
+
+  ![image](https://github.com/PauloRobertoFilhoo/Uni9-CC/assets/119015635/fca71e28-1684-409b-bd35-5bc0c64a0c7b)
+
